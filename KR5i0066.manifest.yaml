@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR5i0066/v1
 canonical_location: https://kanripo.org/bkk/KR5i0066/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 仙佛合宗語錄
   identifiers:
@@ -30,13 +30,13 @@ editions:
 - short: KR5i0066
 assets:
   parts:
-  - {seq: 1, filename: KR5i0066_001.yaml, hash: 'sha256:5469772de5ee256cc2068d64039c567f6fe21e8ee083adbc34594e5de1d4a403'}
-  - {seq: 2, filename: KR5i0066_002.yaml, hash: 'sha256:c666deb4dc7c78b502cad57af5774b6f1b0f15fa6b0a88ca61aba5dda676ba35'}
-  - {seq: 3, filename: KR5i0066_003.yaml, hash: 'sha256:a199e11bc314ebe3ae363f15a9de6c2a9ef1f8a3fcebcd7623c811b07927cd82'}
+  - {seq: 1, filename: KR5i0066_001.yaml, hash: 'sha256:169dcdc476fc9c468781218961155735e65f402815c99033f7bf00faf6a92d27'}
+  - {seq: 2, filename: KR5i0066_002.yaml, hash: 'sha256:bc5a19f36d0287c32ffbd6951bcfe30a7f4721bc6c5832b41770421b4e3b3808'}
+  - {seq: 3, filename: KR5i0066_003.yaml, hash: 'sha256:66017b926919f30b57b45d916642a441690be25dea6e02770533efdb958614c9'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR5i0066_001.markers.yaml, hash: 'sha256:0f9922774c46e56dbbeb9925398a97e6388b5a5548949acb4c7c34b0b5c5e5b2'}
-  - {seq: 2, role: markers, filename: assets/KR5i0066_002.markers.yaml, hash: 'sha256:553fc1b7f2f767eb4f923f1b92eaa738a847f11cf8c7f76b22a4d692784231d6'}
-  - {seq: 3, role: markers, filename: assets/KR5i0066_003.markers.yaml, hash: 'sha256:a9c82ed6133d6984e3b2bfd427018a20cc1db1545a56537c709240affc12de91'}
+  - {seq: 1, role: markers, filename: assets/KR5i0066_001.markers.yaml, hash: 'sha256:5f11011c5e12e972b63eb086a880cdcc7188f074d5d61c12640fb27ca7c3c1cd'}
+  - {seq: 2, role: markers, filename: assets/KR5i0066_002.markers.yaml, hash: 'sha256:8ed38b330ac2d6e2322c775564480ebc0073403c8c9b21b2bf96804e902c1961'}
+  - {seq: 3, role: markers, filename: assets/KR5i0066_003.markers.yaml, hash: 'sha256:98ab6d5ee7807ac3d0cb86c53e8f21f9b722bb5c16f8028285d0580b56cc6c53'}
 table_of_contents:
 - ref:
     seq: 1
@@ -68,4 +68,7 @@ table_of_contents:
   label: juan 003
   type: section
   level: 1
-hash: sha256:96f748666bea5d4ae9af2a1c5535f9e8f37a5289c11ea6b63cd3ae1fa413e445
+hash: sha256:e908e52e83a127231fa6bf11b6251dbc29808d6c79fb46b65e92380cc19b498e
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
