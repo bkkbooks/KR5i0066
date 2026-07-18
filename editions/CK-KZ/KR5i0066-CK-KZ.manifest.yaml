@@ -24,9 +24,9 @@ assets:
   - {seq: 2, filename: KR5i0066_002-CK-KZ.yaml, hash: 'sha256:2e59e8cb092c7a1524728c5d8e86a6837762dccc02cc921a3e4b0f1043d2bed2'}
   - {seq: 3, filename: KR5i0066_003-CK-KZ.yaml, hash: 'sha256:4a19a92d207de41d84357391cf16981571d9ee8823478d8a329110cd0cf2e6ee'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR5i0066_001-CK-KZ.markers.yaml, hash: 'sha256:850d4c1acbf795e20990ccaffe6a60d287bc4493c0511de630ba2ab7ace8c2c4'}
-  - {seq: 2, role: markers, filename: assets/KR5i0066_002-CK-KZ.markers.yaml, hash: 'sha256:61e3404a714fb91ac70a9b1bd449319f81d7490751bff0d5ffdaae01096fe496'}
-  - {seq: 3, role: markers, filename: assets/KR5i0066_003-CK-KZ.markers.yaml, hash: 'sha256:fe1fcd6ca75500b22e9556dd0f75295447bc15c557bc673355bcecdc95492d0c'}
+  - {seq: 1, role: markers, filename: assets/KR5i0066_001-CK-KZ.markers.yaml, hash: 'sha256:d6e77d73502c98561863ead72c08a011f0a8838a1d23fea9593b31592b4a9efa'}
+  - {seq: 2, role: markers, filename: assets/KR5i0066_002-CK-KZ.markers.yaml, hash: 'sha256:7ba46347b4679d6e1039e61e79d2cdf6b887d685d1ef7041f6b0e19dabe038fe'}
+  - {seq: 3, role: markers, filename: assets/KR5i0066_003-CK-KZ.markers.yaml, hash: 'sha256:1320ac7ce882e73f6be076b0699e20b088cf5dc2aa996304234fc68f67cf13a6'}
 table_of_contents:
 - ref:
     seq: 1
@@ -58,4 +58,4 @@ table_of_contents:
   label: juan 003
   type: section
   level: 1
-hash: sha256:92a707effceabe0cac76f3d3429ecb5566de1d3eca271c3b976178ad1da80b29
+hash: sha256:71828817175e4d0ef229dab4c7aa0536bc1dee0ba2765754d9b1a4f53f80de87
